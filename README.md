@@ -34,4 +34,4 @@ Currently, I’m focused on machine learning, UX research, and using data-driven
 
 ✨ Fun Fact:
 
-You’ll usually find me with a matcha latte in hand, coding to Lo-Fi beats, diving into cognitive science research, or chatting about inclusive tech with my Women in Tech community. I’m also oddly good at guessing the plot twist of a movie before it happens 🎬  
+You’ll usually find me with a matcha latte in hand, coding to Lo-Fi beats, or diving into cognitive science research. I’m also oddly good at guessing the plot twist of a movie before it happens 🎬  
