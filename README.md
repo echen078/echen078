@@ -1,12 +1,16 @@
- 👋 Hi, I'm Ellen!
+👋 Hi, I’m Ellen!
 
-🎓 Second-year at UCLA, majoring in Cognitive Science with a Computing specialization and minoring in Data Science Engineering
+🎓 UCLA Cognitive Science (Computing) + Data Science Engineering & Digital Humanities
+💻 Software Engineer | Product + Data @ the intersection of human behavior and technology
 
-🔭 Aspiring Human-Centered AI/ML Researcher & UX-Focused Product Builder
+I build systems that turn complex data and ideas into usable, real-world tools. My work spans full-stack development, machine learning, and product-focused engineering—often sitting at the intersection of software, data, and human-centered design.
 
-I’m passionate about designing tech that’s both intelligent and empathetic. I love tackling real-world challenges—from optimizing classroom tools to supporting inclusion initiatives—through a blend of data, design, and engineering.
+I’ve developed end-to-end ML pipelines, built web applications and Chrome extensions, and created automation tools that transform raw data into structured, decision-ready outputs. I enjoy working across the stack, from designing intuitive user experiences to implementing the underlying systems that power them.
 
-Currently, I’m focused on machine learning, UX research, and using data-driven insights to build more equitable, intuitive systems. I’m seeking opportunities to contribute to impactful projects and grow alongside experienced mentors—have something in mind? Let’s connect!
+I’m especially interested in building technology that is not just intelligent, but also intuitive, scalable, and grounded in real human contexts—whether that’s improving classroom workflows, supporting accessibility, or enabling better decision-making.
+
+🚀 Currently exploring opportunities in software engineering, product, and data-focused roles
+🤝 Always open to collaborating on impactful projects—feel free to reach out!
 
 ---
 
@@ -16,7 +20,7 @@ Currently, I’m focused on machine learning, UX research, and using data-driven
 **Data & ML:** pandas, NumPy, scikit-learn, TensorFlow  
 **Web:** React, Node.js, Firebase  
 **Design & Prototyping:** Figma, Adobe Illustrator  
-**Tools:** Git, GitHub, Jupyter Notebooks, Google Colab, VS Code, AWS
+**Tools:** Git, GitHub, Jupyter Notebooks, Google Colab, VS Code, AWS  
 **Other:** UX Research, Prototyping, A/B Testing, Data Visualization  
 
 ---
