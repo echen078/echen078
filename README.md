@@ -34,4 +34,4 @@ I’m especially interested in building technology that is not just intelligent,
 
 ✨ Fun Fact:
 
-You’ll usually find me with a hojicha latte in hand, coding to lo-fi beats, or going down a rabbit hole on something random in cognitive science. I’m also weirdly good at guessing movie plot twists way too early 🎬
+More of a hojicha person than matcha. Coding to lo-fi beats, or going down a rabbit hole on something random in cognitive science. I’m also weirdly good at guessing movie plot twists way too early 🎬
