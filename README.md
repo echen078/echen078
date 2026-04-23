@@ -34,4 +34,4 @@ I’m especially interested in building technology that is not just intelligent,
 
 ✨ Fun Fact:
 
-You’ll usually find me with a matcha latte in hand, coding to Lo-Fi beats, or diving into cognitive science research. I’m also oddly good at guessing the plot twist of a movie before it happens 🎬  
+You’ll usually find me with a hojicha latte in hand, coding to lo-fi beats, or going down a rabbit hole on something random in cognitive science. I’m also weirdly good at guessing movie plot twists way too early 🎬
